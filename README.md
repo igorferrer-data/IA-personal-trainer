@@ -119,4 +119,5 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ---
 ## ✍️ Fonte: DIO | [Personal Trainer IA](https://github.com/digitalinnovationone/prompt-challenger-personal-ia)
-## 🎯 Prompt de Resposta Proposto
+## 🎯 Prompt ()
+## 🦾 Treino ()
