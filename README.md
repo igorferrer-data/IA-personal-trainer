@@ -118,6 +118,6 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 - [Boas práticas de prompt](https://aline-antunes.gitbook.io/otimize-seus-prompts-e-aprenda-mais-usando-ias-1)
 
 ---
-## ✍️ Fonte: DIO | [Personal Trainer IA](https://github.com/digitalinnovationone/prompt-challenger-personal-ia)
+## ✍️ Fonte: [DIO | Personal Trainer IA](https://github.com/digitalinnovationone/prompt-challenger-personal-ia)
 ## 🎯 [Prompt](prompt-v1.md)
 ## 🦾 [Treino](treino-personalizado.md)
